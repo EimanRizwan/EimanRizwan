@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EimanRizwan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++ and python
+- 🌱 I’m currently learning c,c++ and python,java,assembly
 
 <!---
 EimanRizwan/EimanRizwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
